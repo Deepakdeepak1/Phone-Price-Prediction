@@ -1,4 +1,4 @@
-#  Phone Price Prediction () Using Machine Learning)
+#  Phone Price Prediction (Using Machine Learning)
 ## 1. Problem Statement
 Smartphone pricing is influenced by a wide range of features such as RAM, battery capacity, display size, and connectivity options. The objective of this project was to build a classification model to predict the price category of a phone based on its technical specifications.
 
