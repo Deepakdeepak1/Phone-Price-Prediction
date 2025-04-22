@@ -2,6 +2,9 @@
 ## 1. Problem Statement
 Smartphone pricing is influenced by a wide range of features such as RAM, battery capacity, display size, and connectivity options. The objective of this project was to build a classification model to predict the price category of a phone based on its technical specifications.
 
+## Data set Used
+- <a href="https://github.com/Deepakdeepak1/Phone-Price-Prediction/blob/main/phone_price.csv">Data Set </a>
+
 ## 2. Data Analysis
 The dataset used contained 21 features, including both numerical and binary categorical variables. Key features impacting price prediction included:
 - RAM – Strong correlation with price range
